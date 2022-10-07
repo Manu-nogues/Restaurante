@@ -7,20 +7,16 @@
 .rounded{
     height: 20vh;
 }
-.fondo{
-    background-image: url(/Restaurante/css/img/menu\ restaurante\ desayuno\ gratis\ saludable\ beis.png);
-    height: 1700px;
-    background-size: cover;
-}
 
-.contenedor-maps{
-   
-    background: url(https://goo.gl/maps/P5pcJ1p4c83xpPP89);
-}
 
 .rojo{
 
     background-color: rgb(0, 0, 0);
 }
 
+
+#fondo{
+
+    background: url(../css/img/menu\ restaurante\ desayuno\ gratis\ saludable\ beis.png);
+}
 
